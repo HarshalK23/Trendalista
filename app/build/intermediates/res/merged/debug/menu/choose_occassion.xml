@@ -1,0 +1,16 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.lambda.trendalista.ChooseOccassion" >
+
+    <item
+        android:id="@+id/info"
+        android:title="EditInfo"/>
+      <item
+        android:id="@+id/tips"
+        android:title="Tips"/>
+        <item
+        android:id="@+id/rate"
+        android:title="RateApp"/>
+
+</menu>
+<!-- From: file:/home/harshal/StudioProjects/Trendalista/app/src/main/res/menu/choose_occassion.xml -->

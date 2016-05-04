@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.lambda.trendalista"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="16"
+        android:targetSdkVersion="19" />
+
+    <android:uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <android:uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <android:uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="com.lambda.trendalista.Trendalista"
+            android:label="@string/title_activity_start_page"
+            android:theme="@android:style/Theme.NoTitleBar" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.lambda.trendalista.SecondPage"
+            android:label="@string/title_activity_second_page"
+            android:theme="@android:style/Theme.NoTitleBar" >
+        </activity>
+        <activity
+            android:name="com.lambda.trendalista.LoginActivity"
+            android:label="@string/title_activity_login"
+            android:theme="@android:style/Theme.NoTitleBar" >
+        </activity>
+        <activity
+            android:name="com.lambda.trendalista.SignUp"
+            android:label="@string/title_activity_sign_up"
+            android:theme="@android:style/Theme.NoTitleBar" >
+        </activity>
+        <activity
+            android:name="com.lambda.trendalista.Occasion"
+            android:label="@string/title_activity_occasion"
+            android:theme="@android:style/Theme.NoTitleBar" >
+        </activity>
+        <activity
+            android:name="com.lambda.trendalista.Details"
+            android:label="@string/title_activity_details"
+            android:theme="@android:style/Theme.NoTitleBar" >
+        </activity>
+        <activity
+            android:name="com.lambda.trendalista.Complexion"
+            android:label="@string/title_activity_complexion"
+            android:theme="@android:style/Theme.NoTitleBar" >
+        </activity>
+        <activity
+            android:name="com.lambda.trendalista.Age"
+            android:label="@string/title_activity_age"
+            android:theme="@android:style/Theme.NoTitleBar" >
+        </activity>
+        <activity
+            android:name="com.lambda.trendalista.Weight"
+            android:label="@string/title_activity_weight"
+            android:theme="@android:style/Theme.NoTitleBar" >
+        </activity>
+        <activity
+            android:name="com.lambda.trendalista.Height"
+            android:label="@string/title_activity_height"
+            android:theme="@android:style/Theme.NoTitleBar" >
+        </activity>
+        <activity
+            android:name="com.lambda.trendalista.ChooseOccassion"
+            android:label="@string/title_activity_choose_occassion" >
+        </activity>
+        <activity
+            android:name="com.lambda.trendalista.Parties"
+            android:label="@string/title_activity_parties"
+            android:theme="@android:style/Theme.NoTitleBar" >
+        </activity>
+        <activity
+            android:name="com.lambda.trendalista.MainParty"
+            android:label="@string/title_activity_main_party"
+            android:theme="@android:style/Theme.NoTitleBar" >
+        </activity>
+        <activity
+            android:name="com.lambda.trendalista.Tips"
+            android:label="@string/title_activity_tips"
+            android:theme="@android:style/Theme.NoTitleBar" >
+        </activity>
+        <activity
+            android:name="com.lambda.trendalista.RateApp"
+            android:label="@string/title_activity_rate_app"
+            android:theme="@android:style/Theme.NoTitleBar" >
+        </activity>
+        <activity
+            android:name="com.lambda.trendalista.EditInfo"
+            android:label="@string/title_activity_edit_info"
+            android:theme="@android:style/Theme.NoTitleBar" >
+        </activity>
+        <activity
+            android:name="com.lambda.trendalista.Festivals"
+            android:label="@string/title_activity_festivals"
+            android:theme="@android:style/Theme.NoTitleBar" >
+        </activity>
+        <activity
+            android:name="com.lambda.trendalista.College"
+            android:label="@string/title_activity_college"
+            android:theme="@android:style/Theme.NoTitleBar" >
+        </activity>
+        <activity
+            android:name="com.lambda.trendalista.Office"
+            android:label="@string/title_activity_office"
+            android:theme="@android:style/Theme.NoTitleBar" >
+        </activity>
+        <activity
+            android:name="com.lambda.trendalista.MainFestival"
+            android:label="@string/title_activity_main_festival"
+            android:theme="@android:style/Theme.NoTitleBar" >
+        </activity>
+        <activity
+            android:name="com.lambda.trendalista.MainCollege"
+            android:label="@string/title_activity_main_college"
+            android:theme="@android:style/Theme.NoTitleBar" >
+        </activity>
+        <activity
+            android:name="com.lambda.trendalista.MainOffice"
+            android:label="@string/title_activity_main_office"
+            android:theme="@android:style/Theme.NoTitleBar" >
+        </activity>
+        <activity
+            android:name="com.lambda.trendalista.OccasionDataBaseHelper"
+            android:label="@string/title_activity_occasion_data_base_helper" >
+        </activity>
+        <activity
+            android:name="com.lambda.trendalista.DressDataBaseHelper"
+            android:label="@string/title_activity_dress_data_base_helper" >
+        </activity>
+        <activity
+            android:name="com.lambda.trendalista.YourDetails"
+            android:label="@string/title_activity_your_details"
+            android:theme="@android:style/Theme.NoTitleBar" >
+        </activity>
+        <activity android:name="com.lambda.trendalista.Parts" >
+        </activity>
+        <activity
+            android:name="com.lambda.trendalista.PartTwo"
+            android:label="@string/title_activity_part_two" >
+        </activity>
+        <activity
+            android:name="com.lambda.trendalista.PartThree"
+            android:label="@string/title_activity_part_three" >
+        </activity>
+        <activity
+            android:name="com.lambda.trendalista.PartFour"
+            android:label="@string/title_activity_part_four" >
+        </activity>
+        <activity
+            android:name="com.lambda.trendalista.PartyAcc"
+            android:label="@string/title_activity_party_acc" >
+        </activity>
+        <activity
+            android:name="com.lambda.trendalista.PartyShoes"
+            android:label="@string/title_activity_party_shoes" >
+        </activity>
+        <activity
+            android:name="com.lambda.trendalista.FestAcc"
+            android:label="@string/title_activity_fest_acc" >
+        </activity>
+        <activity
+            android:name="com.lambda.trendalista.FestShoes"
+            android:label="@string/title_activity_fest_shoes" >
+        </activity>
+        <activity
+            android:name="com.lambda.trendalista.CollegeAcc"
+            android:label="@string/title_activity_college_acc" >
+        </activity>
+        <activity
+            android:name="com.lambda.trendalista.CollegeShoes"
+            android:label="@string/title_activity_college_shoes" >
+        </activity>
+        <activity
+            android:name="com.lambda.trendalista.OfficeAcc"
+            android:label="@string/title_activity_office_acc" >
+        </activity>
+        <activity
+            android:name="com.lambda.trendalista.OfficeShoes"
+            android:label="@string/title_activity_office_shoes" >
+        </activity>
+        <activity
+            android:name="com.lambda.trendalista.PartyHair"
+            android:label="@string/title_activity_party_hair" >
+        </activity>
+        <activity
+            android:name="com.lambda.trendalista.OfficeHair"
+            android:label="@string/title_activity_office_hair" >
+        </activity>
+        <activity
+            android:name="com.lambda.trendalista.FestivalHair"
+            android:label="@string/title_activity_festival_hair" >
+        </activity>
+        <activity
+            android:name="com.lambda.trendalista.CollegeHair"
+            android:label="@string/title_activity_college_hair" >
+        </activity>
+    </application>
+
+</manifest>

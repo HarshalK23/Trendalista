@@ -1,0 +1,157 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:background="@drawable/lipsticks"
+    tools:context="com.lambda.trendalista.Tips" >
+    
+  
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:text="TIPS"
+        android:textColorHint="@android:color/tab_indicator_text"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textColor="@android:color/white"
+        android:textSize="40dp"
+        android:textStyle="bold" />
+    
+    
+    <ScrollView
+        android:id="@+id/ScrollView01"
+        android:layout_width="fill_parent"
+        android:layout_height="150px"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentTop="true" >
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_marginTop="60dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentRight="true"
+        android:textColor="@android:color/white"
+        android:layout_below="@+id/textView1"
+        android:text="
+1) Determine what type shape your body is. Pay attention to your curves. Look at how they connect your bust, waist, and hips.
+
+    Measure the sizes of your bust, waist, and hip. Depending on the size of each part (in inches), you can determine which shape your body is to find clothes that properly fit
+    In most Western countries, the typical size is 36”-24”-36”. However, don’t feel pressured to fit these measurements. Just by looking in the mirror, you can definitely tell what body type you are.
+    
+
+
+
+2) Having an apple body type. Generally described as top-heavy, this is generally about 14 percent of women where the bust is three or more inches bigger than the hips. Just by looking at yourself in the mirror, you can see if you are an apple body type.[3][4]
+
+    Slim limbs, specifically the arms, but wide shoulders are usually a strong characteristic of this body type.
+    Weight is concentrated around your mid-section and chest, giving the appearance of a bigger bust and protruding stomach, at times.
+    If you naturally have a smaller busy, then weight can gather around your midriff.
+    Just below the mid-section, your waistline can have little definition, thus giving rise to the “top-heavy” description of this body type.
+    Though your top may be on the heavier side, your legs should be slimmer, perhaps even a bit toned.
+    
+
+
+
+3) Being the opposite of an apple body type means you are a pear body type. This one is bottom-heavy (or triangle) with about 20 percent of women having hips significantly larger than bust.[5][6]
+
+    You’ll notice if this is your body quite quickly, as your lower body: hips, thighs, and sometimes your behind are more noticeable.
+    Shoulders are narrower, sloping, and not as broad.
+    Usually described as the most “curvaceous” body. It’s a simple one to notice just by looking at your legs as they are sometimes noticeably more wider, muscular, and fuller compared to the rest of your body.
+    
+
+
+
+4) Being a straight/rectangular body type. About 46 percent of women are this shape where the waist is about the same as hips and waist. Your silhouette isn’t as curvy as the pear or apple bodies. Instead, you’ll look fairly straight up with flat shoulders.[7]
+
+    Unlike the prior two body types; the best way to determine for a rectangular type is to measure. Upon measuring, you’ll notice that your waist is one to eight inches smaller than your bust.
+    Standing straight up, you shouldn’t notice any curves around the waist area.
+    Your rib cage will define most of your shape, as there will be no waist definition to add curves.
+    Despite being rectangular, you may still have a curvy bottom (similar to a pear bottom), or a wide chest with a little bit of extra weight around the midriff.
+    
+
+
+
+5) Having the hourglass body. This is the least common with only 8 percent of women. The hip and bust measurements are usually equal, with a narrow waist.[8][9]
+
+    Unlike other body shapes, you’ll definitely notice you’re the rare hourglass when your waist is significantly defined.
+    Your curves are flattering in the right places. Fat is usually evenly stored throughout.
+    Looking in the mirror your hip line and bust line are the same width.
+    You can still have an hourglass body even when: slightly fleshy upper arms, wider looking shoulders, and a slightly fuller bottom.
+    
+
+
+
+6) Keep in mind that you can change your body shape with some dedication. Morphing one body type in to another is attainable through diet and exercise. If you wish to fit certain clothes better it’s a good idea to maybe make some lifestyle changes.
+
+    One exercise does not suit everyone. Find one that will help you reach your end goal quickest. For example, if you wish for a thinner frame (smaller waist), then cardio would be a larger part of your routine, rather than weights.
+    Know what your natural body is like. There are three main ones: Endomorphs (bodies that retain fat easier than others), Ectomorphs (bodies that burn fat quick), and Mesomorphs (athletic bodies that are usually maintained through consistent exercise).
+    Cardio and resistance training are most commonly used to change body types. By knowing if you retain fat more or lose it quicker, you can create an exercise plan to cater to your bodily needs.[10]
+    Remember that the idea of an ideal body has changed. You don’t have to have the body of a model to wear everything.[11]
+    
+
+
+
+7) Look at your genetics. Family genes play a large role in your body type. Look at other women in your family to see a common trend, and what they wear and do to dress for their bodies.
+
+
+
+
+8) Dress for the apple body type. To dress successfully for the apple body, you need to direct attention away from your mid riff, and wear clothes to accentuate other parts.
+
+    Follow your bodyline and keep details on the top and lower third of your body.
+    Draw attention away from your waist and shoulders/arms (wear long sleeves), and draw attention to your bust and neck (e.g. v-necks).
+    Choose flared pants over straight-leg or skinny pants, and to help balance out wide shoulders and/or a heavy upper body. Wear bottoms just below your hipbone to draw attention away from your mid riff.
+    Avoid dresses and belts that pinch at your waist. This will most likely accentuate curves that you may not wish to show off.
+    Wear tops that drape over any curves if you wish.
+    Enhancing a feature that is further away or you can cover it with dark colors.
+    
+
+
+
+9) Dress for a pear body type. The trick to dressing this body type is to wear anything that adds to your shoulder and bust area. Keep attention to your upper body, by minimizing the lower half.
+
+    If you’re a pear body-type, there are things you can do to make your hips and butt look slimmer, if you want to make their butts bigger!
+    Balance your top with your bottom. Try to wear tops that accentuate your shoulders a bit more.
+    Avoid pants or tights that narrow your legs. With the pear body-type
+    Wearing a push-up bra to add curves up top might not be a bad idea. Just make sure you are wearing the right bra size!
+    Wear straight-leg or slightly flared pants with heels. Skinny pants that hug your ankles can make your lower body take on the appearance of an upside-down triangle. Flared pants can make your legs look very thick, perhaps bowl-legged, in comparison to your upper body.
+    
+
+
+
+10) Dress for a &apos;straight/rectangular body type. With this body type, wear clothes that break your silhouette; create curves that move up and down from the waist area.
+
+    If you have this body type, you can &apos;pinch&apos; your waist and exaggerate curves to avoid looking lanky or boyish.
+    Go for ruffles and frills to add texture and volume (and femininity) to your figure.
+    Steer clear of baggy jeans and track clothes if you don&apos;t want to look boyish.
+    Stock up on miniskirts and bright tights to make the most of your great legs. They will also add more shape to a straight body.
+    Wear belts and dresses that pinch at your waist. This is a must because it&apos;ll create the illusion of curves.
+    
+
+
+
+11) Dress an hourglass body. Avoid anything that makes you look boxy! If you’re on of the lucky few with these natural, beautiful curves, then you’ll want to accentuate them!
+
+    Use your waist as the focal point when dressing. This means to wear snug clothes and accessories around the thinnest part of your waist. Directing attention here will make your curves stand out even more.
+    Dress to flatter your beautiful curves by following your body’s outline. Don’t wear loose clothes that hide your body.
+    Balance your top and bottom while accentuating your waist. Draw attention to your waist with belts and dresses that pinch at the mid-section.
+    Remember, just because you have an hourglass figure doesn&apos;t mean you have to wear clothes that make you blush. If a neckline is too deep, or if a hemline is too short, leave those clothes on the rack.
+    Shape your bust. If you have an hourglass shape, you probably have an ample bust; your main concern should be to wear a supportive bra so that your chest looks perky, not droopy.
+    Stock up on V-neck dresses and tops - they&apos;re super flattering on big-busted girls. If you don&apos;t want to draw attention to your chest, stay away from necklaces and wear chunky bangles instead.
+"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+
+ 
+ </ScrollView>
+
+</RelativeLayout>
+<!-- From: file:/home/harshal/StudioProjects/Trendalista/app/src/main/res/layout/activity_tips.xml -->

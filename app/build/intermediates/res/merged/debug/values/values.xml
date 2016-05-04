@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/home/harshal/StudioProjects/Trendalista/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string-array name="age">
+        <item>20-25</item>
+        <item>25-30</item>
+        <item>30-35</item>
+        <item>35-40</item>
+        <item>40-45</item>
+        <item>45-50</item>
+    </string-array>
+    <!-- From: file:/home/harshal/StudioProjects/Trendalista/app/src/main/res/values/dimens.xml -->
+    <eat-comment/>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <!-- From: file:/home/harshal/StudioProjects/Trendalista/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="action_settings">Settings</string>
+    <string name="app_name">Trendalista</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="pa">Pick_age</string>
+    <string name="title_activity_age">Age</string>
+    <string name="title_activity_choose_occassion">ChooseOccassion</string>
+    <string name="title_activity_college">College</string>
+    <string name="title_activity_college_acc">CollegeAcc</string>
+    <string name="title_activity_college_hair">CollegeHair</string>
+    <string name="title_activity_college_shoes">CollegeShoes</string>
+    <string name="title_activity_complexion">Complexion</string>
+    <string name="title_activity_details">Details</string>
+    <string name="title_activity_dress_data_base_helper">DressDataBaseHelper</string>
+    <string name="title_activity_edit_info">EditInfo</string>
+    <string name="title_activity_fest_acc">FestAcc</string>
+    <string name="title_activity_fest_shoes">FestShoes</string>
+    <string name="title_activity_festival_hair">FestivalHair</string>
+    <string name="title_activity_festivals">Festivals</string>
+    <string name="title_activity_height">Height</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="title_activity_main_college">MainCollege</string>
+    <string name="title_activity_main_festival">MainFestival</string>
+    <string name="title_activity_main_office">MainOffice</string>
+    <string name="title_activity_main_party">MainParty</string>
+    <string name="title_activity_occasion">Occasion</string>
+    <string name="title_activity_occasion_data_base_helper">OccasionDataBaseHelper</string>
+    <string name="title_activity_office">Office</string>
+    <string name="title_activity_office_acc">OfficeAcc</string>
+    <string name="title_activity_office_hair">OfficeHair</string>
+    <string name="title_activity_office_shoes">OfficeShoes</string>
+    <string name="title_activity_part_four">PartFour</string>
+    <string name="title_activity_part_three">PartThree</string>
+    <string name="title_activity_part_two">PartTwo</string>
+    <string name="title_activity_parties">Parties</string>
+    <string name="title_activity_party_acc">PartyAcc</string>
+    <string name="title_activity_party_hair">PartyHair</string>
+    <string name="title_activity_party_shoes">PartyShoes</string>
+    <string name="title_activity_rate_app">RateApp</string>
+    <string name="title_activity_second_page">SecondPage</string>
+    <string name="title_activity_sign_up">SignUp</string>
+    <string name="title_activity_start_page">StartPage</string>
+    <string name="title_activity_tips">Tips</string>
+    <string name="title_activity_weight">Weight</string>
+    <string name="title_activity_your_details">YourDetails</string>
+    <!-- From: file:/home/harshal/StudioProjects/Trendalista/app/src/main/res/values/styles.xml -->
+    <eat-comment/>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+</resources>
